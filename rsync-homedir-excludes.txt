@@ -15,11 +15,11 @@
 # (uncomment the files you don't need)        #
 ###############################################
 
-#.android
-#.AndroidStudio*/
-#Android/Sdk
-#.gradle
-#.gvm
+.android
+.AndroidStudio*/
+Android/Sdk
+.gradle
+.gvm
 #.grails/
 #.grails_history
 #.kde/share/apps/nepomuk
@@ -46,8 +46,8 @@
 ## Add Game Folders here:
 #
 #/games
-#.local/share/Steam
-#.steam
+.local/share/Steam
+.steam
 #/Steam
 #.minecraft
 #.technic
@@ -68,7 +68,7 @@
 #.mysql_history
 #
 ## Python eggs
-#.local/lib/python*
+.local/lib/python*
 #
 ## Python virtual environments
 #PycharmProjects/**/venv
