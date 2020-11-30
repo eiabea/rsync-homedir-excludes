@@ -20,14 +20,14 @@
 Android/Sdk
 .gradle
 .gvm
-#.grails/
-#.grails_history
+.grails/
+.grails_history
 #.kde/share/apps/nepomuk
 #.local/share/notbit
-#.local/libvirt
-#.local/share/libvirt
-#.vagrant
-#.vagrant.d
+.local/libvirt
+.local/share/libvirt
+.vagrant
+.vagrant.d
 #.wine
 #.twister
 #/twister
@@ -36,8 +36,8 @@ Android/Sdk
 #*Popcorntime*
 #/.aMule
 #/Scribus
-#/VirtualBox*
-#/Nextcloud
+/VirtualBox*
+/Nextcloud
 #_build
 #
 ## Ruby gems
