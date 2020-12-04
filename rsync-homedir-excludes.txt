@@ -386,3 +386,6 @@ go/pkg/mod/cache
 
 # Nvidia OpenGL Shader Cache
 .nv/GLCache
+
+# Monero
+xmr
